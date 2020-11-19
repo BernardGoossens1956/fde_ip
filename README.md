@@ -15,7 +15,7 @@ The "test_....h" files contain the hexadecimal encoding of a set of RISC-V progr
 
 The "vitis_hls.txt" file contains the prints after the runs of the IP on the "test_....h" examples in the vitis_hls tool (print of the "main" function in the "testbench_fde_ip.c" file).
 
-The "pynq_z1.txt" file contains the prints after the runs of the IP on the "test_....h" examples on a Pynq-Z1 development board (print of the "main" function in the "helloworld.c" file).
+The "pynq_z1.txt" file contains the print after the run of the IP on the "test_op_imm.h" example on a Pynq-Z1 development board (print of the "main" function in the "helloworld.c" file).
 
 Complementary informations are available in the book "A RISC-V processor with High Level Synthesis ; a Do-It-Yourself approach", Bernard Goossens.
 
